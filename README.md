@@ -13,8 +13,6 @@ Soyut frakatallara örnek Mandelbrot seti diyebiliriz. Mandelbrot seti basit bir
 ### Mandelbrot1
 ![gif_mandelbrot](https://user-images.githubusercontent.com/81527587/176215675-e2629175-3e31-42ec-83f6-6a47034b96d8.gif)
 
-### Julia3
-![gif_julia3](https://user-images.githubusercontent.com/81527587/176213459-f8f1acef-25d6-457b-a393-7a1d4c05e414.gif)
 
 ## Özellikler
 * Farklı fraktallar oluştur: zorunlu fraktallar mandelbrot ve julia setleridir.
@@ -25,3 +23,8 @@ Soyut frakatallara örnek Mandelbrot seti diyebiliriz. Mandelbrot seti basit bir
 "make" komutunu çalıştırın. Yürütülebilir bir dosya derleniyor. OS X ve Linux üzerinde çalışır.
 './fractol [fraktal]' ile çalıştırmalısın.
 Fraktallar şunlardır: "mandelbrot", "julia1", "julia2", "julia3", "burningship", "mandelbar"
+
+
+### Julia3
+![gif_julia3](https://user-images.githubusercontent.com/81527587/176213459-f8f1acef-25d6-457b-a393-7a1d4c05e414.gif)
+
